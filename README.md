@@ -1,99 +1,56 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "CV"
 layout: page
 ---
+<img src="/assets/cv.jpg" alt="Description" style="float: right; margin-left: 10px; width: 230px;">
+<br>
 
-## Installation
+# Kaiwen Zhang
+Email: kzhang1@uwyo.edu
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Address: PS111, Laramie, Wyoming, USA, 82071
 
-## Features
+<br><br>
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+___
+## Education
 
-## Based on
+* ### University of Wyoming
+Doctoral of Philosophy in Physics and Astronomy
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+* ### University of Chicago <br>
+Master of Science in Astronomy and Astrophysics <br>
+Master Thesis: METACALIBRATION and METADETECTION with Redshift Dependent Shears
 
-## Installation (jekyll-remote-theme method)
+* ### University of Illinois at Urbana-Champaign
+Bachelor of Science in Engineering Physics (Highest honor) <br>
+Bachelor of Science in LAS in Astronomy/Mathematics (Cum Laude) <br>
+Major GPA: 3.90/4.0 <br>
+Physics GRE: 950/990
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+___
+## Work <br>
+* **Algorithm Engineer**, Huawei Technologies Co. <br>
+Departments: ICT Products & Solutions -> Huawei Cloud <br>
+Rank: 14 -> 15
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+___
+## Publications
 
-plugins:
-  - jekyll-remote-theme
-```
+* Hengxiao Guo, Jiacheng Peng, **Kaiwen Zhang** et al., 2020, ApJ, 905, 52, “High-redshift Extreme Variability Quasars from Sloan Digital Sky Survey Multi-Epoch Spectroscopy”
 
-Note: to enable icons you also need to copy over the `_data` folder.
+* Colin J. Burke, Xin Liu et al. including **Kaiwen Zhang** and DES collaboration, 2022, “Variability-Selected Dwarf AGN in the Dark Energy Survey Deep Fields”
 
-## Config
+* Hengxiao Guo, Xin Liu et al. including **Kaiwen Zhang** and DES collaboration, 2020, MNRAS, 496, 3636, “Dark Energy Survey Identification of A Low-Mass Active Galactic Nucleus at Redshift 0.823 from Optical Variability”
 
-Your `_config.yml` could for example look like this:
+* Yu-Ching Chen, Xin Liu et al. including **Kaiwen Zhang** and DES collaboration, 2020, MNRAS, 499, 2245, “Candidate Periodically Variable Quasars from the Dark Energy Survey and the Sloan Digital Sky Survey”
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+___
+## Skills
+* Languages: Python, JAVA, Shell Script, C++ <br>
+* Software: Prospector, CIGALE, Metadetection, QSOFit, Brains
 
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+___
+## Languages
+* Mandarin (native) <br>
+* English (fluent)

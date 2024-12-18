@@ -1,4 +1,4 @@
-title: "Kaiwen Zhang's Page"
+title: "Kaiwen Zhang"
 author: "Kaiwen Zhang"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -8,7 +8,7 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: false        # show article excerpts on the home page
+show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: yes             # use a dark header
@@ -16,13 +16,15 @@ minimal: yes             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "index.md"}
+  - {file: "research.md"}
   - {file: "README.md"}
+  - {file: "posts.html"}
+  - {file: "AboutMe.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "kzhang1@uwyo.edu"}
   - {title: Github, icon: github, url: "https://github.com/kaiwen-kakuiii"}
-#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
