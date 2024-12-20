@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "AboutMe.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "kzhang1@uwyo.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:kzhang1@uwyo.edu"}
   - {title: Github, icon: github, url: "https://github.com/kaiwen-kakuiii"}
 
 comments:

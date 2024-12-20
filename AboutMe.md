@@ -8,11 +8,11 @@ My name is Kaiwen Zhang, 张楷文 in Chinese, a lucky guy who just got married!
 I love trying different things to find the meaning for my life. My sister is a cat named 'like flower', 如花 in Chinese. She's cute!
 
 ## After work hobby
-[Photography](https://github.com/poole/hyde) (including Astrophotograph), hiking, traveling, basketball, gaming and [mountain biking](https://github.com/poole/hyde).
+[Photography](/posts/), hiking, traveling, basketball, gaming, ski and mountain biking.
 
 
 ## Places visited
-{% include embed.html url="https://visitedplaces.com/embed/?map=world&projection=geoNaturalEarth1&theme=dark-green&water=1&graticule=0&names=1&duration=2000&placeduration=100&slider=0&autoplay=0&autozoom=none&autostep=0&home=CN&places=~CN_US_JP_MY_ID_TH_SG_MX_CU" %}
+{% include embed.html url="https://beeneverywhere.net/usermap/17031?width=800&height=450" %}
 
 ## Places want to visit
 - Xi'an, China (Home sweet home)
