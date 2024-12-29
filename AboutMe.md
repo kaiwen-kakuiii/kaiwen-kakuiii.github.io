@@ -19,8 +19,8 @@ I love trying different things to find the meaning for my life. My sister is a c
 - Otaru, Japan
 - Mt Mauna Kea, Hawaii
 - EBC trek, Nepal
-- Chile
+- Atacama, Chile
 - Alaska
 - Iceland
 - Norway
-- Antarctica
+- anywhere with a warm cabin in Antarctica
