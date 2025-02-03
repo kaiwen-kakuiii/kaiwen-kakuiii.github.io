@@ -9,5 +9,5 @@ layout: page
 ## [Changing-look AGNs](/researchs/CL/) 
 
 
-## Binary Supermassive Black Holes (coming soon)
+## [Binary Supermassive Black Holes](/researchs/BinaryAGN/)
 

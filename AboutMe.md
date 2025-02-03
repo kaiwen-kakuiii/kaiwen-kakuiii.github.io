@@ -16,7 +16,6 @@ I love trying different things to find the meaning for my life. My sister is a c
 
 ## Places want to visit
 - Xi'an, China (Home sweet home)
-- Otaru, Japan
 - Mt Mauna Kea, Hawaii
 - EBC trek, Nepal
 - Atacama, Chile
