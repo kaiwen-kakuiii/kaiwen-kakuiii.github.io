@@ -6,4 +6,4 @@ categories: media
 ---
 
 
-{% include embed.html url="https://www.youtube.com/shorts/tOL9O0k2wek" %}
+{% include embed.html url="https://www.youtube.com/embed/tOL9O0k2wek" %}
