@@ -5,7 +5,7 @@ layout: page
 
 ## **Hello World, welcome to my website!**
 
-I am **Kaiwen Zhang**, a second year graduate student in Astronomy at University of Wyoming. 
+I am **Kaiwen Zhang**, a third year graduate student in Astronomy at University of Wyoming. 
 My interest lies in studying various aspects of **Active Galactic Nuclei (AGN)**, 
 some of the most energetic and fascinating phenomena in the universe.
 
